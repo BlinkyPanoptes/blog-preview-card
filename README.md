@@ -11,9 +11,6 @@ For the next steps, I plan to:
 ## Author
 
 - Frontend Mentor - @BlinkyPanoptes https://www.frontendmentor.io/profile/BlinkyPanoptes
-- PortfolioGot it—honestly, checking for typos is half the battle when a single missing semicolon can break a whole layout. Since you didn't use the AI for the logic or the hover states, I’ve adjusted the **AI Collaboration** and **Challenge** sections to reflect that.
-
-Here is the updated version for your README:
 
 ---
 
